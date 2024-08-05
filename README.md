@@ -1,0 +1,2 @@
+# knjbhexo.github.io
+hexoJB
